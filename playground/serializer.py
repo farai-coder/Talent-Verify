@@ -1,5 +1,5 @@
 __author__ = 'Farai Rato'
-__date__created = "12 April 2023"
+__date__created = ""
 
 from rest_framework import serializers
 from .models import Company, Employee, Department
